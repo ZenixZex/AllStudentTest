@@ -1,0 +1,7 @@
+ContentLibrary = 
+{
+	string Name = "DataCogStorage",
+	uint64 LibraryId = 56760067f07fd266,
+	string SourceControlType = "",
+	bool ReadOnly = false,
+},

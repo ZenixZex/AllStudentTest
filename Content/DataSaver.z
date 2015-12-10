@@ -1,0 +1,5 @@
+class DataSaver : ZilchComponent
+{
+    [Serialized] 
+    var Score: Integer = 0;
+}
